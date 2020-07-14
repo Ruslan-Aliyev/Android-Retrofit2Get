@@ -76,7 +76,3 @@ header('Content-Type: application/json');
 echo json_encode($res[ $_GET["test_name"] ]);
 ?>
 ```
-
-## Detailed Description of differences
-
-Full explaination of difference since Retrofit 1.9 are here: https://github.com/Ruslan-Aliyev/Android-Retrofit2Get/blob/master/Illustrations/Retrofit2.pdf
